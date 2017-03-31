@@ -17,7 +17,7 @@
       "host" : ["jamesmcgarr.me"],
       "ref" : "origin/master",
       "repo" : "git@github.com:JamesDaniel/pm-deploy.git",
-      "path" : "/home/user/node/pm-deploy/",
+      "path" : "/var/www/production",
       "ssh_options" : "StrictHostKeyChecking=no",
       "pre-setup" : "apt-get install git",
       "post-setup": "ls -la",
